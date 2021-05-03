@@ -114,8 +114,8 @@
         {
             "id": 4,
             "num": "004",
-            "name": "Charmander",
-            "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+            "name": "XLR8",
+            "img": "https://static.wikia.nocookie.net/ben10/images/8/80/Xlr8_re.png",
             "type": [
                 "Fire"
             ],
@@ -149,10 +149,10 @@
         {
             "id": 5,
             "num": "005",
-            "name": "Charmeleon",
-            "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+            "name": "Four Arms",
+            "img": "https://static.wikia.nocookie.net/ben10/images/b/ba/Standing_Four_Arms.png",
             "type": [
-                "Fire"
+                "Tetramand"
             ],
             "height": "1.09 m",
             "weight": "19.0 kg",
@@ -186,11 +186,11 @@
         {
             "id": 6,
             "num": "006",
-            "name": "Charizard",
-            "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+            "name": "Grey Matter",
+            "img": "https://static.wikia.nocookie.net/ben10/images/e/ec/Grey_matter_re_enhanced.png",
             "type": [
-                "Fire",
-                "Flying"
+                "Hummainod Frog",
+                "wall crawling"
             ],
             "height": "1.70 m",
             "weight": "90.5 kg",
@@ -219,10 +219,10 @@
         {
             "id": 7,
             "num": "007",
-            "name": "Squirtle",
-            "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+            "name": "DiamondHead",
+            "img": "https://static.wikia.nocookie.net/ben10/images/2/27/Standing_Diamondhead.png",
             "type": [
-                "Water"
+                "Crystalline Hummanoid"
             ],
             "height": "0.51 m",
             "weight": "9.0 kg",
@@ -253,10 +253,10 @@
         {
             "id": 8,
             "num": "008",
-            "name": "Wartortle",
-            "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+            "name": "Upgrade",
+            "img": "https://static.wikia.nocookie.net/ben10/images/1/17/Standing_Upgrade.png",
             "type": [
-                "Water"
+                "Technological Hummanoid"
             ],
             "height": "0.99 m",
             "weight": "22.5 kg",
@@ -289,10 +289,10 @@
         {
             "id": 9,
             "num": "009",
-            "name": "Blastoise",
-            "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+            "name": "StinkyFly",
+            "img": "https://static.wikia.nocookie.net/ben10/images/1/13/Standing_Stinkfly.png",
             "type": [
-                "Water"
+                "Hummanoid Insect"
             ],
             "height": "1.60 m",
             "weight": "85.5 kg",
@@ -320,10 +320,10 @@
         {
             "id": 10,
             "num": "010",
-            "name": "Caterpie",
-            "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+            "name": "Wlidvine",
+            "img": "https://static.wikia.nocookie.net/ben10/images/9/91/Standing_Wildvine.png",
             "type": [
-                "Bug"
+                "Hummanoid Plant"
             ],
             "height": "0.30 m",
             "weight": "2.9 kg",
@@ -355,10 +355,10 @@
         {
             "id": 11,
             "num": "011",
-            "name": "Metapod",
-            "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+            "name": "Gax",
+            "img": "https://static.wikia.nocookie.net/ben10/images/4/4e/Gax_Profile.png",
             "type": [
-                "Bug"
+                "Hummanoid"
             ],
             "height": "0.71 m",
             "weight": "9.9 kg",
@@ -393,8 +393,8 @@
         {
             "id": 12,
             "num": "012",
-            "name": "Butterfree",
-            "img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+            "name": "Shock Rock",
+            "img": "https://static.wikia.nocookie.net/ben10/images/9/9a/Rockshock.png",
             "type": [
                 "Bug",
                 "Flying"
@@ -429,7 +429,7 @@
             "id": 13,
             "num": "013",
             "name": "Weedle",
-            "img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+            "img": "https://static.wikia.nocookie.net/ben10/images/9/9a/Rockshock.png",
             "type": [
                 "Bug",
                 "Poison"
@@ -466,10 +466,10 @@
         {
             "id": 14,
             "num": "014",
-            "name": "Kakuna",
-            "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+            "name": "Slapback",
+            "img": "https://static.wikia.nocookie.net/ben10/images/5/59/Slapback.png",
             "type": [
-                "Bug",
+                "Hummanoid Frog",
                 "Poison"
             ],
             "height": "0.61 m",
@@ -506,10 +506,10 @@
         {
             "id": 15,
             "num": "015",
-            "name": "Beedrill",
-            "img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+            "name": "Humungousaur",
+            "img": "https://static.wikia.nocookie.net/ben10/images/2/27/Reboot_Humungousaur_Standing_Pose.PNG",
             "type": [
-                "Bug",
+                "Hummanoid Dinosaur",
                 "Poison"
             ],
             "height": "0.99 m",
@@ -540,10 +540,10 @@
         {
             "id": 16,
             "num": "016",
-            "name": "Pidgey",
-            "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+            "name": "Rath",
+            "img": "https://static.wikia.nocookie.net/ben10/images/2/2b/Reboot_Rath_Standing_Pose.PNG",
             "type": [
-                "Normal",
+                "Humanoid Tiger",
                 "Flying"
             ],
             "height": "0.30 m",
@@ -576,10 +576,10 @@
         {
             "id": 17,
             "num": "017",
-            "name": "Pidgeotto",
-            "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+            "name": "Jetray",
+            "img": "https://static.wikia.nocookie.net/ben10/images/1/1a/GB_Jetray_%2811%29.png",
             "type": [
-                "Normal",
+                "Humanoid Manta Ray",
                 "Flying"
             ],
             "height": "1.09 m",
@@ -613,10 +613,10 @@
         {
             "id": 18,
             "num": "018",
-            "name": "Pidgeot",
-            "img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+            "name": "Goop",
+            "img": "https://static.wikia.nocookie.net/ben10/images/f/f8/Goop_Reboot_Stand.png",
             "type": [
-                "Normal",
+                "Various",
                 "Flying"
             ],
             "height": "1.50 m",
@@ -645,8 +645,8 @@
         {
             "id": 19,
             "num": "019",
-            "name": "Rattata",
-            "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+            "name": "Way Big",
+            "img": "https://static.wikia.nocookie.net/ben10/images/f/f1/WaybigRB.png",
             "type": [
                 "Normal"
             ],
@@ -675,10 +675,11 @@
         {
             "id": 20,
             "num": "020",
-            "name": "Raticate",
-            "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+            "name": "Surge",
+            "img": "https://static.wikia.nocookie.net/ben10/images/f/f5/Surge_Arcade_Render.png",
             "type": [
-                "Normal"
+                "
+X-Shaped"
             ],
             "height": "0.71 m",
             "weight": "18.5 kg",
