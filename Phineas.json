@@ -144,43 +144,6 @@
             ]
         },
         {
-            "id": 5,
-            "num": "005",
-            "name": "Jeremy Johnson",
-            "img": "https://static.wikia.nocookie.net/phineasandferb/images/7/7d/Profile_-_Jeremy_Johnson.png/revision/latest/scale-to-width-down/276?cb=20200401191035",
-            "type": [
-                "Human"
-            ],
-            "height": "1.09 m",
-            "weight": "19.0 kg",
-            "candy": "Charmander Candy",
-            "candy_count": 100,
-            "egg": "Not in Eggs",
-            "spawn_chance": 0.012,
-            "avg_spawns": 1.2,
-            "spawn_time": "19:00",
-            "multipliers": [
-                1.79
-            ],
-            "weaknesses": [
-                "Water",
-                "Ground",
-                "Rock"
-            ],
-            "prev_evolution": [
-                {
-                    "num": "004",
-                    "name": "Charmander"
-                }
-            ],
-            "next_evolution": [
-                {
-                    "num": "006",
-                    "name": "Charizard"
-                }
-            ]
-        },
-        {
             "id": 6,
             "num": "006",
             "name": "Isabella Garcia-Shapiro",
